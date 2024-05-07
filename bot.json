@@ -1,0 +1,97 @@
+[
+    {
+        "question": "testing?",
+        "answer": "yes, testing!"
+    },
+    {
+        "question": "what is the capital of france?",
+        "answer": "Paris"
+    },
+    {
+        "question": "who wrote \"romeo and juliet\"?",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "what is the chemical symbol for water?",
+        "answer": "H2O"
+    },
+    {
+        "question": "who painted the mona lisa?",
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "what is the tallest mountain in the world?",
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "what year did the titanic sink?",
+        "answer": "1912"
+    },
+    {
+        "question": "who discovered penicillin?",
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "what is the currency of japan?",
+        "answer": "Yen"
+    },
+    {
+        "question": "hat is the largest planet in our solar system?",
+        "answer": "Jupiter"
+    },
+    {
+        "question": "who was the first person to walk on the moon?",
+        "answer": "Neil armstrong"
+    }
+    
+,{
+    "question": "testing?",
+    "answer": "yes, testing!"
+}
+,{
+    "question": "testing?",
+    "answer": "yes, testing!"
+}
+,{
+    "question": "testing?",
+    "answer": "yes, testing!"
+}
+,{
+    "question": "hello!",
+    "answer": "Hey, there!"
+}
+,{
+    "question": "hello!",
+    "answer": "Hey, there!"
+}
+
+,{
+    "question": "hi",
+    "answer": "hello"
+}
+,{
+    "question": "hi",
+    "answer": "hello"
+}
+,{
+    "question": "hi",
+    "answer": "hello"
+}
+,{
+    "question": "hello",
+    "answer": "hi"
+}
+,{
+    "question": "how are you?",
+    "answer": "I'm fine, and you?"
+}
+
+,{
+    "question": "whats your name?",
+    "answer": "My name is ava"
+}
+,{
+    "question": "nice!",
+    "answer": ""
+}
+]
